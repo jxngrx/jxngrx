@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MongoDB, ExpressJS, ReactJS, NodeJS, React-Native, Firebase, Python, C++**
+- 💬 Ask me about **React Native, MongoDB, ExpressJS, ReactJS, NodeJS, React-Native, Firebase, Python, C++**
 
-- 📫 Reach me at **shubhamjangrartk@gmail.com**
+- 📫 Reach me at **work@jxngrx.com**
 
 - ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
 - 
