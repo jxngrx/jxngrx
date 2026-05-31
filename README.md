@@ -1,94 +1,224 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
-<h1 align="center">Hi there 👋, I'm Shubham Jangra</h1>
-<h3 align="center">A passionate Frontend, Backend, and Android developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=typical-techno&label=Profile%20views&color=0e75b6&style=flat" alt="typical-techno" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on an Android App called **Sarajod**
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MzkyNTAsIm5iZiI6MTcwMjgzODk1MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDE4NDkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MGI3MWZhMTE0MDIxZWNiOWFjNGY2M2QwZWZkYmVhYzYzZjcwNGViN2U5YTA4MjA2N2U1MTBmZTA5ZGUwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xQ4_hkihhXSTGEk38g7DUHPG5zDOBDLpY6fFqnkjDHg"/>
+<div align="center">
 
-- 🌱 I’m currently learning **MERN Stack**
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    > initializing profile.exe                            ║
+║    > loading: shubham_jangra                             ║
+║    > status: building things that ship                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-- 💬 Ask me about **React Native, MongoDB, ExpressJS, ReactJS, NodeJS, React-Native, Firebase, Python, C++**
+</div>
 
-- 📫 Reach me at **work@jxngrx.com**
+<div align="center">
 
-- ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
-- 
-<p align="left">  <a href="https://shubhamjangra.vercel.app" target="_blank" rel="noreferrer">Personal Portfolio</a>  
-  
-⚠️ Caution: Some projects are hiding in private repos like shy turtles in their shells, still in the cocoon phase, waiting to blossom into magnificent butterflies! 🐢🦋
+# `Shubham Jangra` — jxngrx
 
+### React Native · Full Stack · Builder
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**React Native Intern @ [ParallelDots](https://paralleldots.com) · Founder @ [Sarajod](https://sarajod.com)**
+**B.Tech CS · Maharshi Dayanand University · 2026**
 
-<h3 align="left">Experience:</h3>
+[![Portfolio](https://img.shields.io/badge/jxngrx.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jxngrx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jxngrx)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jxngrx)
+[![Email](https://img.shields.io/badge/work@jxngrx.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@jxngrx.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jxngrx)
 
-- **YHills Internship - Android Developer (1st July to 31st August 2023):**
-  - Developed and maintained Android applications using Java and Kotlin.
-  - Collaborated with cross-functional teams to define, design, and ship new features.
-  - Participated in code reviews and provided constructive feedback to peers.
+</div>
 
-- **International Astronomical Search Program - Collaboration (5 Feb - 29 Feb 2024):**
-  - Assisted in the identification and tracking of near-Earth objects.
-  - Analyzed astronomical data using specialized software.
-  - Contributed to the preparation of scientific reports and presentations.
+---
 
-- **Sportzpod - UI/UX Designer & Web Developer (16 Feb - ongoing 2024):**
-  - Designed user interfaces and improved user experience for web applications.
-  - Developed responsive web applications using ReactJS and TailwindCSS.
-  - Conducted user research and usability testing to inform design decisions.
-  - Certificate pending.
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=jxngrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
 
-- **Wagen Wizard - UI/UX Designer (25 March - 25 June 2024 - ongoing):**
-  - Created wireframes, prototypes, and high-fidelity designs for automotive applications.
-  - Collaborated with developers to ensure the implementation of designs.
-  - Conducted A/B testing to optimize user experience.
-  - Certificate pending.
+### `whoami`
 
-- **Figleo Web Services - React Native Developer (1st April 2024 - 1st October 2024 - ongoing):**
-  - Developed cross-platform mobile applications using React Native.
-  - Integrated RESTful APIs to enhance app functionality.
-  - Implemented state management solutions using Redux.
+```typescript
+const shubham = {
+  role: "React Native + Full Stack Developer",
+  location: "Rohtak, Haryana 🇮🇳",
+  currently: [
+    "React Native Intern @ ParallelDots",
+    "Founder @ Sarajod (AI Finance App)"
+  ],
+  shipped: "10K+ active users in production",
+  stack: ["TypeScript", "React Native", "Node.js",
+          "PostgreSQL", "MongoDB", "AWS"],
+  superpower: "MVP → Production without hand-holding",
+  openTo: "Strong teams. Hard problems. Work that ships."
+};
+```
 
-- **Suff.ai - App Maintainer - React Native Developer (24 April - ongoing 2024):**
-  - Maintained and updated existing React Native applications.
-  - Fixed bugs and improved app performance based on user feedback.
-  - Collaborated with product managers to prioritize and implement new features.
-  - Certificate pending.
+<br clear="right"/>
 
-<h3 align="left">Projects:</h3>
+---
 
-- **Project-1 (Sarajod):**
-  - **An uncomplicated and reliable application for accounting, encompassing essential features for both personal and business financial management.**
-  - **Tech Stack:**
-    - Frontend: ReactNative
-    - Backend: Django
+## ⚡ By The Numbers
 
-- **Project-2 (Zindagi):**
-  - **Zindagi is a blood donation app connecting donors with individuals in need of blood.**
-  - **Features include robust authentication, donor management, seeker interface, and comprehensive request tracking.**
-  - **Tech Stack:**
-    - Frontend: React Native
-    - UI Design: Tailwind CSS
-    - Backend: Django
+<div align="center">
 
-- **Project-3 (ERohtak):**
-  - Ongoing project aimed at listing all shops, malls, and businesses in Rohtak, with plans to expand to cover all of Haryana.
+| 🚀 Metric | 📊 Value |
+|---|---|
+| Production Users Reached | **10,000+** |
+| API Call Reduction (WebSocket arch) | **40%+** |
+| Business Listings on ERohtak | **100+** |
+| Partner Sales Increase | **20%** |
+| Production Apps @ Tekora Labs | **3 apps** |
+| Cyber Internship Selection Rate | **Top 1,100 / 15,000+** |
 
-<h3 align="left">Leadership:</h3>
+</div>
 
-- **Head of Byte Squad Community at Maharshi Dayanand University:**
-  - Organized programs, speeches, and conferences with speakers from GitHub, Microsoft, and Coding Ninjas.
- 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=typical-techno&show_icons=true&locale=en&layout=compact" alt="typical-techno" /></p>
+## 🛠️ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=typical-techno&show_icons=true&locale=en" alt="typical-techno" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typical-techno&" alt="typical-techno" /></p>
+**Core**
 
-  - Fostered a collaborative environment for students to learn and share technology knowledge.
-  - Managed community events and online forums to engage members and facilitate learning.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Mobile & Frontend**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+▸ ParallelDots        React Native Developer (Intern)          Apr 2026 – Present
+  └─ WebSocket real-time system → 40%+ API call reduction
+  └─ Revamped task journey with 5+ new features
+
+▸ Sarajod             Founder & Developer                      Mar 2026 – Present
+  └─ AI-native personal finance app for India
+  └─ Conversational AI: Hindi · Hinglish · English → structured data
+  └─ Full solo build: product · brand · mobile · backend · AI pipelines
+
+▸ Tekora Labs         React Native Developer (Contract)        Feb 2025 – Feb 2026
+  └─ 3 production apps with shared architecture
+  └─ Finance, subscriptions, visitors, parking, emergency modules
+
+▸ Suffai              Software Development Engineer (Intern)   May 2024 – Feb 2026
+  └─ MVP → 10K+ active users in production
+  └─ Expo migration with full dev-test-prod pipeline
+
+▸ Advan Drive         Backend Engineer                         Dec 2025 – Mar 2026
+  └─ Location-based social platform on Node.js + AWS EC2 + NGINX
+
+▸ Gurugram Police     Cyber Warrior (GPCSSI 2024)              Jun 2024 – Jul 2024
+  └─ Top 1,100 selected from 15,000+ applicants nationwide
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Live |
+|---|---|---|
+| **[Sarajod](https://sarajod.com)** — AI finance app for India | RN · Django · AI | 🟢 Beta |
+| **[ERohtak](https://erohtak.com)** — Local business discovery | React · RN · Node · MongoDB | 🟢 Live |
+| **[Cosmic](https://cosmic.jxngrx.com)** — B2B AI support (chat + voice + RAG) | Next.js · Convex · VAPI · Clerk | 🟢 Live |
+| **[jxcafe](https://jxcafe.jxngrx.com)** — Multi-tenant cafe ops platform | Full Stack · POS · QR ordering | 🟢 Live |
+| **[jxpush](https://jxpush.jxngrx.com)** — Unified push notification SDK | TypeScript · Expo · FCM | 🟢 Live |
+| **[RECHK](https://jxngrx.com/projects)** — AI research paper evaluator | Next.js · PostgreSQL · HuggingFace | ✅ Built |
+| **[Noterx](https://notes.jxngrx.com)** — Personal productivity dashboard | React · Full Stack | 🟢 Live |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxngrx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=jxngrx&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jxngrx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)](https://github.com/jxngrx)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certs
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jxngrx&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
+```
+🏅  Google Cloud — Big Data & ML Fundamentals
+🏅  Foundations of Cybersecurity (Google)
+🏅  Programming with JavaScript (Meta)
+🏅  Modernizing Data Lakes (Google Cloud)
+🏅  Docker: The Complete Guide
+🛡️  GPCSSI 2024 Cyber Warrior — Gurugram Police (Top 1,100 / 15,000+)
+🎓  Head of Byte Squad Community — MDU (GitHub · Microsoft · Coding Ninjas speakers)
+```
+
+---
+
+## 🧠 Leadership
+
+> **Head of Byte Squad Community @ Maharshi Dayanand University**
+> Organized conferences with speakers from GitHub, Microsoft, and Coding Ninjas.
+> Built a collaborative tech ecosystem for students to learn, build, and grow.
+
+---
+
+<div align="center">
+
+### 💬 Let's connect
+
+*I build things that hold up in production — not just in demos.*
+
+**[jxngrx.com](https://jxngrx.com) · [work@jxngrx.com](mailto:work@jxngrx.com) · [@jxngrx](https://x.com/jxngrx)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+
+</div>
